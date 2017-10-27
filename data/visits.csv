@@ -1,0 +1,101 @@
+visitor_id,user_id,country,timezone,location_accuracy
+d63e6402-9b67-44a6-a8aa-18b2bde545c0,45042,United Kingdom,Europe/London,20
+39982811-d309-4ba3-bee1-94e01ba66420,,United States,America/Los_Angeles,20
+98d8ded2-f96a-4104-a695-88405e8ab68b,,France,Europe/Paris,5
+9a1d42b1-b484-49bc-bfe7-f8b21058b809,45042,United States,America/Chicago,10
+deeb0ef2-123b-41e1-bacf-e499b49ea4f4,45042,United Kingdom,Europe/London,50
+5a1d2899-1224-461d-bbdf-cb9bab768632,45042,India,Asia/Kolkata,1000
+d67dc576-9ed2-4404-9b72-bff8c9cbd8b5,45042,United Kingdom,Europe/London,20
+4791bc31-966a-4b52-9b37-d93834482930,,United States,America/Chicago,1000
+d92ab42d-4f4b-456e-a80c-0939bf84e205,45042,United Kingdom,Europe/London,20
+3aab6fbc-4093-4585-b8c9-e02c273bdcc3,,United Kingdom,Europe/London,50
+f904165d-fa77-4238-a3c0-ce9f3d70ae13,45042,Canada,,1
+96e01fc9-b998-4d26-bd1e-908dbb71fb86,45042,United Kingdom,Europe/London,20
+3d158b99-9490-4424-b123-941b7b50fdb7,,United States,America/Chicago,1
+df559053-c60c-4e21-ae41-392dde3d26ac,45042,United States,America/Chicago,1000
+790d2a0f-ff04-4e17-ae68-a9824e37e6ae,45042,Portugal,Europe/Lisbon,20
+c5604ee1-4a9b-4ef4-b037-286d90baaaa3,,United States,America/Los_Angeles,1000
+608561f2-8d7b-43d4-86f6-be37bdf41b5b,,United States,America/Los_Angeles,1000
+9068c167-eb17-4050-aaa2-48c4b56149f5,45042,Netherlands,Europe/Amsterdam,20
+b10112eb-8167-4473-87b8-d7b3c3ff443d,45042,United Kingdom,Europe/London,20
+6ce90adf-840a-4c37-ac6d-7f25ee9cf075,45042,Canada,,20
+0d18cfea-b762-4e58-a999-68bac6872c0e,45042,United Kingdom,Europe/London,20
+0f966e75-5c0c-4d0b-94e0-bca541defc09,,United States,America/Los_Angeles,1000
+0eb3692f-390c-4f79-96bc-376de21eaf1e,45042,United States,America/Chicago,5
+4bf26c6a-bdc6-4c74-af9a-78c3ce591784,45042,United States,America/Chicago,1
+8f1af2df-a89e-43fd-8efe-0b1aec3e9f86,,Australia,Australia/Perth,20
+1f0e5b8b-d2f9-42fb-9b84-bb8b35243f07,45042,Australia,Australia/Melbourne,50
+fb5f0d72-2edf-442c-b20c-2cb4540659e3,,Australia,Australia/Adelaide,100
+0a6ede6a-dae6-4951-b0c8-382c3e888198,,United Kingdom,Europe/London,1
+fd78544b-ba81-441c-8906-36a7b66cffeb,,United States,America/Kentucky/Louisville,10
+d4641f6a-85ab-4c6f-8a42-26d84fb12e25,,United States,America/Chicago,20
+b2633dfa-88c4-46b0-985d-224c09693f74,,United States,,500
+4e8450ea-1d30-43a7-a418-b692d83066cc,45042,United Kingdom,Europe/London,20
+534816f3-9c9b-410b-840f-3edca9bef977,45042,Italy,Europe/Rome,50
+faf9d838-8d7d-4758-a83a-7861499bde0b,,United Kingdom,Europe/London,1
+6f26b49f-6ec5-49c9-b127-7324198452cf,,United Kingdom,Europe/London,1
+e9ecbca2-82f7-4698-8726-6803dc2fecc4,,United States,America/Chicago,5
+ba706f7c-7352-4a3b-a675-533e4b6a2412,45042,Switzerland,Europe/Zurich,50
+1e8dd3d6-5d26-481c-95b8-0b9b31759081,,United States,America/Chicago,1
+103cd09a-76cd-4852-ab4f-77cf75dc8ce5,,United States,America/Chicago,50
+f354b690-85d6-4bfc-8af0-cc8537be44a9,45042,United Kingdom,Europe/London,20
+88cc663d-2b96-40b1-b6cb-53bc8732636a,45042,United Kingdom,Europe/London,20
+990955af-ef57-4896-b061-7a9d94fd8472,45042,Spain,Europe/Madrid,1
+47ab3434-41c7-4c98-be47-e3643f9c4d46,,United States,America/New_York,1
+6d1e9b1e-aa3e-4ae0-8824-3532805d974e,45042,United States,America/Kentucky/Louisville,5
+1502cf7f-6f38-402b-9686-8dbcec142fbd,,United States,America/Los_Angeles,1
+9facbf92-06c0-4d59-a817-69414f1da7a5,45042,United States,America/Phoenix,20
+4adf2f11-5fe0-43c9-a039-b9dae8a0d91a,,Canada,America/Toronto,5
+cc6b92a9-5c53-427c-adb2-fc55c0741adc,,United Kingdom,Europe/London,10
+a9225c8f-4e0f-4cf7-8a6f-6b844f0e3f97,,United States,America/Detroit,20
+dc186aed-ec84-4359-a31c-4c9740ad0ae3,45042,Hashemite Kingdom of Jordan,Asia/Amman,1
+ddf2e47a-d6c6-421c-af2d-dbae075a605b,45042,United States,America/New_York,10
+25aad0d1-25ad-4577-8703-b4339f1c2309,,United Kingdom,Europe/London,50
+ba7e866c-5381-4eb9-8b49-eeb1fb3e0dc7,,France,Europe/Paris,100
+a2f699b9-f53e-4be1-85a8-d842bf4f0f46,45042,United Kingdom,Europe/London,50
+541abac8-936c-4577-a2c2-8587615ab9ad,,Romania,Europe/Bucharest,10
+267b37c0-bb4f-4c20-a016-af2a4c007bd4,,United States,America/Los_Angeles,50
+f665787b-68a0-41f9-aa32-9badf67cd980,45042,United Kingdom,Europe/London,20
+2f592074-301d-489f-916a-9ed3e289ef5f,,Bangladesh,Asia/Dhaka,100
+ac9e7603-98d8-4c12-bcdf-f43437b9a877,45042,United Kingdom,Europe/London,20
+e1ef186c-3e6e-47fa-8a56-4deaf9134fbe,,United States,America/New_York,20
+30bffe92-d941-4760-b1fb-9c720b344e6f,19524,United Kingdom,Europe/London,50
+9b13e3c4-c6b6-4bae-8943-655a296ad73d,,United States,America/New_York,5
+b6129d95-03df-454d-915b-cf18c4acddfb,45042,Canada,,5
+05817dd5-684b-4d38-8f89-2ecc9fff6178,,Canada,,5
+9c856d13-6298-4922-b294-532b81fc5067,45042,United States,America/Los_Angeles,5
+8b4e0681-d59e-41da-855a-1b2da2d06bd8,45042,Morocco,Africa/Casablanca,1
+c18bf303-2acc-419d-aa94-7a97b146ddba,,Canada,,20
+96648222-23f2-4a74-8c62-43365b31ae44,45042,Indonesia,Asia/Jakarta,200
+06ea0015-6218-4b4d-bb71-ba44c9dba777,,Philippines,Asia/Manila,1000
+56653fee-8695-4ecc-896f-5b5008c8cf17,,United Kingdom,Europe/London,50
+31bbb615-74aa-49f5-970e-e6cbfd2d8253,45042,United Kingdom,Europe/London,20
+959ad75a-11db-40e0-9d7a-4364f644686f,45042,United Kingdom,Europe/London,20
+49f8fae4-5ae9-48a9-a2db-0931f07c1c4e,45042,United States,America/New_York,1
+c51d8659-7d87-464d-b830-05ec2726df2d,,United Kingdom,Europe/London,1000
+004f9a0a-8235-4190-a336-cfe6fde1d14a,,United Kingdom,Europe/London,20
+3041c3ec-a2d5-4f67-bc44-48f514bed5e6,,United Kingdom,Europe/London,5
+3b464ac5-675f-4636-a34b-50c7d047c3fa,,United Kingdom,Europe/London,50
+0c77ad23-b18f-43c9-9fb4-292afdb0d76b,,United States,America/New_York,1
+51523752-f3be-432b-8a21-24f0a21354a8,,United Kingdom,Europe/London,20
+f5d50e9b-5ad3-42b4-8e12-07bf3552287e,19622,United Kingdom,Europe/London,100
+d366e507-6654-405c-94b6-3adec3b2871e,45042,United Kingdom,Europe/London,20
+542db790-4d09-47e2-b6b1-9e79f9fc5651,,United Kingdom,Europe/London,200
+f356ab6e-1445-4411-bd3f-f43dd60f8899,,United States,America/New_York,100
+a4b6e71e-5577-48e8-8c67-b02ef2e040aa,20635,United States,,1000
+468bed42-309b-4d16-aa20-25a058f00177,19593,United Kingdom,Europe/London,10
+322c19b0-30e4-4734-a353-9e46cd96ddfc,45042,United Kingdom,Europe/London,50
+c2765759-4207-4886-8c44-824619173069,,Netherlands,Europe/Amsterdam,10
+0ccee33e-83c8-4da6-ac71-f0c0141638f1,45042,United States,America/New_York,100
+2b8d0495-ff48-4e3d-85f8-d5e7220c0282,45042,Canada,,5
+423c8512-42c1-4912-a2a9-2145451fe1c9,45042,United States,America/Phoenix,200
+b9be2c17-36d8-4595-933f-2ce96315c5a4,,United States,America/Detroit,5
+dbbe8c85-2f38-49e1-9e45-67a5e870d9ef,45042,United Kingdom,Europe/London,1
+ce0f1a74-c619-4797-af7c-302bc353e7df,45042,New Zealand,,1000
+1ff3c16e-fc20-4319-8720-f64be2079f90,,United States,America/Los_Angeles,20
+fa956fe6-2dc7-4240-9eb9-d81f2246728b,45042,United States,America/Los_Angeles,10
+95725f4a-52bd-4860-a1ba-0dea3c522a49,45042,United Kingdom,Europe/London,20
+633c2075-5303-45dd-ba1d-c5471426391a,45042,Poland,Europe/Warsaw,1
+23c3f161-4caa-4ecf-8a35-c38771407579,45042,United Kingdom,Europe/London,20
+41cc0a8d-d994-4e74-b63e-075e81918887,,Israel,Asia/Jerusalem,20
+8e2fc8d5-3c0b-41a8-a3c6-44b561162193,,United States,America/New_York,20

@@ -1,0 +1,7 @@
+requests>=2.12,<2.13
+beautifulsoup4>=4.5,<4.6
+html5lib>=0.999,<1.0
+nltk>=3.2,<3.3
+pandas>=0.20,<0.21
+sqlalchemy>=1.1,<1.2
+psycopg2>=2.7,<2.8
