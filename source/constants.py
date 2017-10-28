@@ -1,4 +1,9 @@
+def project_root():
+    import os
+    components = os.path.split(os.path.dirname(__file__))
+    return os.path.join(*components[:-1])
+
+
 def absolutify(*paths):
     import os
-    *components, _ = os.path.split(os.path.dirname(__file__))
-    return os.path.join(*components, *paths)
+    return os.path.join(project_root(), *paths)

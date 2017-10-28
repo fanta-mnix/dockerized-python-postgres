@@ -14,7 +14,7 @@ def fetch_list(page):
     response = requests.get('https://www.inkitt.com/list', params={'page': page, 'period': 'alltime'}, headers=headers)
     if response.status_code != 200:
         raise ValueError('Request failed with status {}'.format(response.status_code))
-    return response.content
+    return str(response.content, 'utf-8')
 
 
 def parse_list(content):
@@ -28,6 +28,9 @@ def parse_list(content):
         description = book.select_one('p.story-description').text
         meta = book.select_one('p.story-meta-information').text
         match = re.match(r'(?us)(.*?)\sby\s(.*?)\s•', meta)
+        if not match:
+            raise ValueError("Unknown format: '{}'".format(meta))
+
         return {'title': normalize_whitespace(title),
                 'description': normalize_whitespace(description),
                 'genre': normalize_whitespace(match.group(1)),
@@ -42,7 +45,3 @@ def parse_list(content):
 def books_at(page):
     print("Scraping results at page {}".format(page))
     return parse_list(fetch_list(page))
-
-
-book_list = pd.DataFrame(list(flatmap(books_at, range(1, 50))))
-book_list.to_csv('../data/books.csv', columns=['title', 'description', 'author', 'genre'], index=False)
