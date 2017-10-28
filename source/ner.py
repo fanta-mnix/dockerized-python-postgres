@@ -1,7 +1,5 @@
-import nltk
-from nltk.tokenize.stanford import StanfordTokenizer
 from nltk.tag.stanford import StanfordNERTagger
-
+from nltk.tokenize.stanford import StanfordTokenizer
 
 from source.constants import absolutify
 

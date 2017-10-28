@@ -1,8 +1,5 @@
 import bs4
-import pandas as pd
 import requests
-
-from source.utils import *
 
 
 def fetch_list(page):
