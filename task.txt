@@ -8,5 +8,3 @@ Do you have any comments on the data/results?
 - what country are the readers from?
 2. write the same query in Python and possibly with Pandas or Numpy; or write it in R if you feel more comfortable.
 3. the Stories table contains a field called 'Teaser'. How would you extract geographic location from this?
-
-
